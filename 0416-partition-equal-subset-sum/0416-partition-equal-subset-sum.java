@@ -17,7 +17,10 @@ class Solution {
         }
         if(dp[i][curr]!=null) return dp[i][curr];
         boolean skip=helper(nums,i+1,curr);
-        boolean take=helper(nums,i+1,curr+nums[i]);
+        boolean take=false;
+        int rem=sum-curr;
+        if(curr<=rem)
+            take=helper(nums,i+1,curr+nums[i]);
         return dp[i][curr]= skip || take;
     }
 }
