@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
