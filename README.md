@@ -61,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0178-rank-scores) |
+| [0182-duplicate-emails](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
