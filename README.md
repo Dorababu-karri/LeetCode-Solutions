@@ -63,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
