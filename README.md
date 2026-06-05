@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [2126-destroying-asteroids](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Database
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
