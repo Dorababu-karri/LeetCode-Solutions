@@ -12,11 +12,10 @@ class Solution {
         for(int i=n-2;i>=0;i--){
             right[i]=right[i+1]+nums[i+1];
         }
-      
-        int ans[]=new int[n];
+    
         for(int i=0;i<n;i++){
-            ans[i]=Math.abs(left[i]-right[i]);
+            left[i]=Math.abs(left[i]-right[i]);
         }
-        return ans;
+        return left;
     }
 }
