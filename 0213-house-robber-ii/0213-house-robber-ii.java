@@ -3,8 +3,8 @@ class Solution {
     public int rob(int[] nums) {
         int n=nums.length;
         if(n==1) return nums[0];
-        dp=new int[n+1][n];
-        for(int i=0;i<n;i++) Arrays.fill(dp[i],-1);
+        dp=new int[2][n];
+        for(int i=0;i<2;i++) Arrays.fill(dp[i],-1);
         this.nums=nums;
         return Math.max(helper(0,n-2),helper(1,n-1));
     }
