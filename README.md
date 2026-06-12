@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Tree
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Counting
+|  |
+| ------- |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 <!---LeetCode Topics End-->
