@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0213-house-robber-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2126-destroying-asteroids](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
