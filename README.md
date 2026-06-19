@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0119-pascals-triangle-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0213-house-robber-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0119-pascals-triangle-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0213-house-robber-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Database
