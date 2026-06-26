@@ -1,6 +1,5 @@
 class Solution {
     public int minLights(int[] light) {
-        List<int[]> range=new ArrayList<>();
         int n=light.length;
         int vis[]=new int[n];
         for(int i=0;i<n;i++){
