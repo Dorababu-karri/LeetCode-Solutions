@@ -11,10 +11,6 @@ class Solution {
                 }
             }
         }
-        int ans=0;
-        for(int i:a){
-            ans=Math.max(i,ans);
-        }
-        return ans;
+        return a[n-1];
     }
 }
