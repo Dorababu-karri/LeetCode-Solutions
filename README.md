@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
 |  |
 | ------- |
