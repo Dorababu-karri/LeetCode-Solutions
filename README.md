@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4020-elevator-requests-i](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/4020-elevator-requests-i) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2679-sum-in-a-matrix](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
+| [4020-elevator-requests-i](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
 | ------- |
