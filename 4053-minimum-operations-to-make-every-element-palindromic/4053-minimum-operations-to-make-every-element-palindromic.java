@@ -30,20 +30,13 @@ class Solution {
         for(int i:nums){
             List<Long> target=(i%2!=0)?odd:even;
             int idx=Collections.binarySearch(target,(long)i);
-           if (idx >= 0) continue; // Already a palindrome
-
-            idx = -idx - 1;
-            long minDiff = Long.MAX_VALUE;
-
-            // Check adjacent elements in target
-            if (idx < target.size()) {
-                minDiff = Math.min(minDiff, Math.abs(target.get(idx) - i));
-            }
-            if (idx - 1 >= 0) {
-                minDiff = Math.min(minDiff, Math.abs(target.get(idx - 1) - i));
-            }
-
-            ans += minDiff / 2;
+           if(idx>=0) continue; //already a palindrome
+           //now check the boundaries and adjacent elements to the insertion point;
+           long min=Long.MAX_VALUE;
+           idx=-idx-1;
+           if(idx-1>=0) min=Math.min(min,i-target.get(idx-1));
+           if(idx<target.size()) min=Math.min(min,target.get(idx)-i);
+           ans+=(min/2);
         }
         return ans;
     }
