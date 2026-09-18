@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0416-partition-equal-subset-sum](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
