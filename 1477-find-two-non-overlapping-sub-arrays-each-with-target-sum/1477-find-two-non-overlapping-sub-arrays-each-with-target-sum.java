@@ -14,11 +14,11 @@ class Solution {
             pre+=arr[i];
             int k=pre-target;
             if(map.containsKey(k)){
-                int prev=map.get(k);
-                int len=i-prev;
-                if(prev>=0 && dp[prev]!=Integer.MAX_VALUE)
+                int prev=map.get(k)+1;
+                int len=i-prev+1;
+                if(prev>0 && dp[prev-1]!=Integer.MAX_VALUE)
                 {
-                    ans=Math.min(ans,dp[prev]+len);
+                    ans=Math.min(ans,dp[prev-1]+len);
                 }
                 minSofar=Math.min(minSofar,len);
             }
