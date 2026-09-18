@@ -5,6 +5,7 @@ class Solution {
         int n=arr.length;
         int dp[]=new int[n];
         int ans=Integer.MAX_VALUE;
+        int minSofar=Integer.MAX_VALUE;
         Arrays.fill(dp,ans);
         int pre=0;
         HashMap<Integer,Integer> map=new HashMap<>();
@@ -19,12 +20,11 @@ class Solution {
                 {
                     ans=Math.min(ans,dp[prev]+len);
                 }
-                dp[i]=len;
+                minSofar=Math.min(minSofar,len);
             }
             map.put(pre,i);
-            if(i>0){
-                dp[i]=Math.min(dp[i-1],dp[i]);
-            }
+            dp[i]=minSofar;
+            
         }
         return ans==Integer.MAX_VALUE?-1:ans;
     }
