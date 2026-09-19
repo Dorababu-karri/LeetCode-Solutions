@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0072-edit-distance](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0242-valid-anagram](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
