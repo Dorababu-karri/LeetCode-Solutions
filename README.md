@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0072-edit-distance](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
