@@ -12,9 +12,9 @@ class Solution {
         
         for(int i=0;i<n;i++){
             int idx=Ceil(arr1,arr2[i]);
-            if(idx-1>i){
+            
                 count+=(idx-1-i);
-            }
+            
         }
         return count;
     }
