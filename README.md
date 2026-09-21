@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2679-sum-in-a-matrix](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [4020-elevator-requests-i](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/4020-elevator-requests-i) |
 ## Math
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Tree
