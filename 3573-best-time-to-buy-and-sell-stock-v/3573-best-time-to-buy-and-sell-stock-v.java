@@ -14,8 +14,8 @@ class Solution {
     }
     public long fun(int idx,int state,int k){
         if(idx==n || k<=0){
-            return state==0?0:Long.MIN_VALUE/2;
-            //return state==2?Long.MIN_VALUE/2:0;
+            //return state==0?0:Long.MIN_VALUE/2;
+            return state==2?Long.MIN_VALUE/2:0;
         }
         if(dp[idx][state][k]!=Long.MIN_VALUE) return dp[idx][state][k];
         long profit=0;
