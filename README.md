@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0686-repeated-string-match](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -260,4 +261,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
