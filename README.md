@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -277,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
