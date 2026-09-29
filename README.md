@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2574-left-and-right-sum-differences](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2679-sum-in-a-matrix](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2679-sum-in-a-matrix](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Simulation
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Database
 |  |
@@ -289,4 +292,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
