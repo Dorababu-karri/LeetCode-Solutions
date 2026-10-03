@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0049-group-anagrams](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
