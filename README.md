@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0032-longest-valid-parentheses](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -300,11 +302,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
