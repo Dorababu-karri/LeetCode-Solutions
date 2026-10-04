@@ -13,7 +13,7 @@ class Solution {
             int max=Math.max(initial,num);
             String find=min+" "+max;
             if(!set.containsKey(find)){
-                set.put(find,Math.min(max-min,(min-max+10)%10));
+                set.put(find,Math.min(max-min,10-(max-min)));
             } 
             ans+=set.get(find);
             initial=num;
