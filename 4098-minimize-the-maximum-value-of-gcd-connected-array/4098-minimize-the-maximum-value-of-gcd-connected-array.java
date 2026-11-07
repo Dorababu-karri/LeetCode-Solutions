@@ -3,7 +3,7 @@ class Solution {
         int d=getLeastFactor(value);
         int t=n-index-1;
         
-        if(value==1 || 2*index-1>value-d) return -1;
+        if(value==1 || 2*index-1>=value-d) return -1;
         if(index==n-1) return value;
         long ans=(long)(value+d)+(long)2*(t-1);
         return ans;
