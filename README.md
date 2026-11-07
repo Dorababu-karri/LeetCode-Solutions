@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0055-jump-game) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
