@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2679-sum-in-a-matrix](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2679-sum-in-a-matrix](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
