@@ -257,12 +257,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [1306-jump-game-iii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -373,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Dorababu-karri/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
